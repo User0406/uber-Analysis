@@ -264,11 +264,11 @@ This dashboard enables Uber stakeholders to:
 
 ## 👤 Author
 
-**Pralhad Balaji Jadhav**  
+**Lakshay sharma**  
 Aspiring Data Analyst | Power BI | Data Analytics  
 
 📌 GitHub Repository:  
-https://github.com/parlhad/Uber_Power-BI_Project
+
 
 ---
 
