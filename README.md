@@ -267,7 +267,8 @@ This dashboard enables Uber stakeholders to:
 **Lakshay sharma**  
 Aspiring Data Analyst | Power BI | Data Analytics  
 
-📌 GitHub Repository:  
+📌 GitHub Repository:
+(https://github.com/User0406/uber-Analysis/tree/main)
 
 
 ---
