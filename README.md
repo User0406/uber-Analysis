@@ -80,7 +80,7 @@ Interactive navigation buttons and filters allow seamless movement between pages
 - Makes the dashboard portfolio and stakeholder-ready
 
 ---
-<img src="Home.png" alt="Home" width="1000"/>
+<img src="Dashboards/HOME.png" alt="Home" width="1000"/>
 
 ---
 
@@ -108,7 +108,7 @@ Provide a high-level snapshot of Uber’s operational and financial performance.
 - Identifies overall growth, decline, or inefficiencies
 
 ---
-<img src="Overview.png" alt="Overview" width="1000"/>
+<img src="Dashboards/Overview.png" alt="Overview" width="1000"/>
 
 ---
 
@@ -134,7 +134,7 @@ Analyze performance at the vehicle level to optimize fleet usage.
 - Helps improve pricing and incentive strategies
 
 ---
-<img src="Vehicle.png" alt="Vehicle" width="1000"/>
+<img src="Dashboards/Vehicle.png" alt="Vehicle" width="1000"/>
 
 ---
 ### 4️⃣ Revenue Page
@@ -160,7 +160,7 @@ Provide detailed financial insights and identify revenue risks.
 - Supports financial planning and strategy
 
 ---
-<img src="Revenue.png" alt="Revenue" width="1000"/>
+<img src="Dashboards/Revenue.png" alt="Revenue" width="1000"/>
 
 ---
 
@@ -192,7 +192,7 @@ Understand customer behavior, loyalty, and cancellation impact.
 - Enhances customer experience
 
 ---
-<img src="Customer.png" alt="Customer" width="1000"/>
+<img src="Dashboards/Customer.png" alt="Customer" width="1000"/>
 
 ---
 
@@ -214,7 +214,7 @@ Analyze geographic and time-based demand patterns.
 - Improves city-level operations
 
 ---
-<img src="Location.png" alt="Location" width="1000"/>
+<img src="Dashboards/Location.png" alt="Customer" width="1000"/>
 ---
 
 
